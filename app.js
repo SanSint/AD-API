@@ -22,48 +22,56 @@ const retrivalList = [
   {
     itemNumber: "S100",
     category: "Scissors",
+    description: "Normal Scissor",
     Zone: "Zone B",
     QtyNeeded: 60
   },
   {
     itemNumber: "S101",
     category: "Tape",
+    description: "Scissor (Black Color)",
     Zone: "Zone A",
     QtyNeeded: 80
   },
   {
     itemNumber: "S102",
     category: "Tape",
+    description: "Scotch Tape Dispensor",
     Zone: "Zone B",
     QtyNeeded: 60
   },
   {
     itemNumber: "S103",
     category: "Scissors",
+    description: "Small scissor with blue handle",
     Zone: "Zone A",
     QtyNeeded: 80
   },
   {
     itemNumber: "S104",
     category: "Tacks",
+    description: "Firm tacks",
     Zone: "Zone B",
     QtyNeeded: 60
   },
   {
     itemNumber: "S105",
     category: "Pens",
+    description: "Black fountain pen",
     Zone: "Zone A",
     QtyNeeded: 80
   },
   {
     itemNumber: "S106",
     category: "Pens",
+    description: "Blue fountain pen",
     Zone: "Zone B",
     QtyNeeded: 60
   },
   {
     itemNumber: "S107",
     category: "Tacks",
+    description: "Small tacks",
     Zone: "Zone A",
     QtyNeeded: 80
   }
